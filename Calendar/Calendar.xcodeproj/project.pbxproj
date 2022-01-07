@@ -15,6 +15,7 @@
 		B5CA16712788A3630073381C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5CA166F2788A3630073381C /* LaunchScreen.storyboard */; };
 		B5CA16792788A7F60073381C /* CalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5CA16782788A7F60073381C /* CalendarView.swift */; };
 		B5CA167B2788B3C00073381C /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5CA167A2788B3C00073381C /* Model.swift */; };
+		B5CA167D2788B7370073381C /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5CA167C2788B7370073381C /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		B5CA16722788A3630073381C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B5CA16782788A7F60073381C /* CalendarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarView.swift; sourceTree = "<group>"; };
 		B5CA167A2788B3C00073381C /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		B5CA167C2788B7370073381C /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				B5CA16662788A3610073381C /* SceneDelegate.swift */,
 				B5CA16682788A3610073381C /* ViewController.swift */,
 				B5CA166A2788A3610073381C /* Main.storyboard */,
+				B5CA167C2788B7370073381C /* TableViewController.swift */,
 				B5CA166D2788A3630073381C /* Assets.xcassets */,
 				B5CA166F2788A3630073381C /* LaunchScreen.storyboard */,
 				B5CA16722788A3630073381C /* Info.plist */,
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B5CA167B2788B3C00073381C /* Model.swift in Sources */,
+				B5CA167D2788B7370073381C /* TableViewController.swift in Sources */,
 				B5CA16692788A3610073381C /* ViewController.swift in Sources */,
 				B5CA16652788A3610073381C /* AppDelegate.swift in Sources */,
 				B5CA16792788A7F60073381C /* CalendarView.swift in Sources */,
